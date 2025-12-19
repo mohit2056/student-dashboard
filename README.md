@@ -24,3 +24,10 @@ A React mini project demonstrating:
 (Add 2–3 screenshots of your dashboard UI)
 
 ## 📂 Project Structure
+
+
+## 🔗 Live Demo
+(If you deploy on Netlify/Vercel, add link here)
+
+## 👨‍💻 Author
+Mohit Suroliya
