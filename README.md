@@ -1,6 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+
+# student-dashboard
+student Dashboard -Learn React fundamentals with nested loops , Use Effect, and ,Lifecyle handling and UI 
+
+# 🎓 Student Dashboard
+
+A React mini project demonstrating:
+- Nested looping (classes + students)
+- Props + useEffect
+- State management (search/filter)
+- Lifecycle handling (mount, update, unmount)
+- UI polish with CSS
+
+## 🚀 Features
+- Search students by name
+- Toggle class visibility
+- Highlight topper students
+- Summary section (total students + average marks)
+
+## 🛠️ Tech Stack
+- React + Vite
+- CSS for styling
+
+## 📸 Screenshots
+(Add 2–3 screenshots of your dashboard UI)
+
+## 📂 Project Structure
+
+
+## 🔗 Live Demo
+(If you deploy on Netlify/Vercel, add link here)
+
+## 👨‍💻 Author
+Mohit Suroliya
+
+
+##Notes This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
 
@@ -14,3 +50,4 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
